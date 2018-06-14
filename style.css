@@ -36,7 +36,17 @@ h1,p{
 }
 
 
+
+header{
+	
+	text-align:center;
+	margin: 11px;
+	padding: 30px;
+	
+}
 footer{
+	
+	border-color:black;
 	clear: both;
 	background:gray;
 }
