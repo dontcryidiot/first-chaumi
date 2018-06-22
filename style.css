@@ -1,5 +1,10 @@
+element.style {
+    background-color: blue;
+}
+
+
 body {	
-	background-color: blue;
+	
 	margin:0;
 	font-size: 2em;
 }	
